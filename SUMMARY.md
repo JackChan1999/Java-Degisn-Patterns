@@ -1,5 +1,6 @@
 # Summary
 
+* [前言](README.md)
 * [从招式与内功谈起——设计模式概述](Chapter01-Overview\从招式与内功谈起——设计模式概述.md)
 * [面向对象设计原则](Chapter02-Opp Principles\面向对象设计原则.md)
 * [工厂三兄弟之简单工厂模式](Chapter03-Simple Factory\工厂三兄弟之简单工厂模式.md)
