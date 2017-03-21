@@ -18,6 +18,8 @@ Sunny在CSDN技术博客中陆续发表了100多篇与设计模式学习相关�
 # 目录
 
 * [前言](README.html)
+* [UML建模技术](https://alleniverson.gitbooks.io/java-degisn-patterns/content/Chapter%2030%20UML/UML建模技术.md)
+* [深入浅出UML类图](https://alleniverson.gitbooks.io/java-degisn-patterns/content/Chapter%2030%20UML/深入浅出UML类图.md)
 * [从招式与内功谈起——设计模式概述](https://alleniverson.gitbooks.io/java-degisn-patterns/content/Chapter%2001%20Overview/从招式与内功谈起——设计模式概述.html)
 * [面向对象设计原则](https://alleniverson.gitbooks.io/java-degisn-patterns/content/Chapter%2002%20Opp%20Principles/面向对象设计原则.html)
 * [工厂三兄弟之简单工厂模式](https://alleniverson.gitbooks.io/java-degisn-patterns/content/Chapter%2003%20Simple%20Factory/工厂三兄弟之简单工厂模式.html)

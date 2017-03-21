@@ -1,6 +1,8 @@
 # Summary
 
 * [前言](README.md)
+* [UML建模技术](Chapter 30 UML/UML建模技术.md)
+* [深入浅出UML类图](Chapter 30 UML/深入浅出UML类图.md)
 * [从招式与内功谈起——设计模式概述](Chapter 01 Overview/从招式与内功谈起——设计模式概述.md)
 * [面向对象设计原则](Chapter 02 Opp Principles/面向对象设计原则.md)
 * [工厂三兄弟之简单工厂模式](Chapter 03 Simple Factory/工厂三兄弟之简单工厂模式.md)
