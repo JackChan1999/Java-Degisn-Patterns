@@ -25,7 +25,7 @@ E-mail:weiliu_china@126.com
 # Summary
 
 * [前言](README.md)
-* [从招式与内功谈起——设计模式概述](Chapter 01 Overview\从招式与内功谈起——设计模式概述.md)
+* [从招式与内功谈起——设计模式概述](Chapter 01 Overview/从招式与内功谈起——设计模式概述.md)
 * [面向对象设计原则](Chapter 02 Opp Principles\面向对象设计原则.md)
 * [工厂三兄弟之简单工厂模式](Chapter 03 Simple Factory\工厂三兄弟之简单工厂模式.md)
 * [工厂三兄弟之工厂方法模式](Chapter 04 Factory Method\工厂三兄弟之工厂方法模式.md)

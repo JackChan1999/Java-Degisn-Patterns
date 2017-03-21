@@ -5,10 +5,6 @@
     "language": "zh-hans",
     "title": "Java设计模式",
 
-    "theme-default": {
-        "showLevel": true
-    },
-
     "pdf": {
         "fontFamily": "等线"
     }
