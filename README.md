@@ -49,3 +49,15 @@ Sunny在CSDN技术博客中陆续发表了100多篇与设计模式学习相关�
 * [设计模式与足球](https://alleniverson.gitbooks.io/java-degisn-patterns/content/Chapter%2027%20Football/设计模式与足球.html)
 * [多人联机射击游戏中的设计模式应用](https://alleniverson.gitbooks.io/java-degisn-patterns/content/Chapter%2028%20Shooter%20Game/多人联机射击游戏中的设计模式应用.html)
 * [设计模式综合实例分析之数据库同步系统](https://alleniverson.gitbooks.io/java-degisn-patterns/content/Chapter%2029%20Database/设计模式综合实例分析之数据库同步系统.html)
+
+## 关注我
+
+- Email：<815712739@qq.com>
+- CSDN博客：[Allen Iverson](http://blog.csdn.net/axi295309066)
+- 新浪微博：[AndroidDeveloper](http://weibo.com/u/1848214604?topnav=1&wvr=6&topsug=1&is_all=1)
+- GitHub：[JackChen1999](https://github.com/JackChen1999)
+- GitBook：[alleniverson](https://www.gitbook.com/@alleniverson)
+
+|                   微信打赏                   |                  支付宝打赏                   |
+| :--------------------------------------: | :--------------------------------------: |
+| <img src="assets/weixin.png" width="300" /> | <img src="assets/支付宝.jpg" width="300" /> |
