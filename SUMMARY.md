@@ -27,6 +27,7 @@
 * [对象间的联动——观察者模式](Chapter 22 Observer/对象间的联动——观察者模式.md)
 * [处理对象的多种状态及其相互转换——状态模式](Chapter 23 State/处理对象的多种状态及其相互转换——状态模式.md)
 * [算法的封装与切换——策略模式](Chapter 24 Strategy/算法的封装与切换——策略模式.md)
+* [策略模式的应用](Chapter 24 Strategy/策略模式的应用.md)
 * [模板方法模式深度解析](Chapter 25 Template Method/模板方法模式深度解析.md)
 * [操作复杂对象结构——访问者模式](Chapter 26 Visitor/操作复杂对象结构——访问者模式.md)
 * [设计模式与足球](Chapter 27 Football/设计模式与足球.md)

@@ -44,6 +44,7 @@ Sunny在CSDN技术博客中陆续发表了100多篇与设计模式学习相关�
 * [对象间的联动——观察者模式](https://alleniverson.gitbooks.io/java-degisn-patterns/content/Chapter%2022%20Observer/对象间的联动——观察者模式.html)
 * [处理对象的多种状态及其相互转换——状态模式](https://alleniverson.gitbooks.io/java-degisn-patterns/content/Chapter%2023%20State/处理对象的多种状态及其相互转换——状态模式.html)
 * [算法的封装与切换——策略模式](https://alleniverson.gitbooks.io/java-degisn-patterns/content/Chapter%2024%20Strategy/算法的封装与切换——策略模式.html)
+* [策略模式的应用](Chapter 24 Strategy/策略模式的应用.md)
 * [模板方法模式深度解析](https://alleniverson.gitbooks.io/java-degisn-patterns/content/Chapter%2025%20Template%20Method/模板方法模式深度解析.html)
 * [操作复杂对象结构——访问者模式](https://alleniverson.gitbooks.io/java-degisn-patterns/content/Chapter%2026%20Visitor/操作复杂对象结构——访问者模式.html)
 * [设计模式与足球](https://alleniverson.gitbooks.io/java-degisn-patterns/content/Chapter%2027%20Football/设计模式与足球.html)
