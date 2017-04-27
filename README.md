@@ -59,7 +59,7 @@ Sunny在CSDN技术博客中陆续发表了100多篇与设计模式学习相关�
 - GitHub：[JackChen1999](https://github.com/JackChen1999)
 - GitBook：[alleniverson](https://www.gitbook.com/@alleniverson)
 
-如果觉得我的文章对您有用，请随意打赏。您的支持将鼓励我继续创作！
+如果觉得我的文章对您有用，请随意打赏。您的支持将鼓励我继续创作！  
 |                  微信赞赏支持                  |                 支付宝赞赏支持                  |
 | :--------------------------------------: | :--------------------------------------: |
 | <img src="assets/weixin.png" width="300" /> | <img src="assets/支付宝.jpg" width="300" /> |
