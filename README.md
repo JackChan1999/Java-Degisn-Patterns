@@ -23,6 +23,12 @@ Sunny在CSDN技术博客中陆续发表了100多篇与设计模式学习相关�
 
 更多干货，请关注：http://blog.csdn.net/axi295309066
 
+## 设计模式系列
+
+- [Java设计模式](https://www.gitbook.com/book/alleniverson/java-design-patterns/details)
+- [Java和Android设计模式](https://www.gitbook.com/book/alleniverson/design-pattern/details)
+- [C/C++设计模式](https://www.gitbook.com/book/alleniverson/cpp_design_pattern/details)
+
 ## 目录
 
 * [前言](README.html)
