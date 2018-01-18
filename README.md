@@ -28,6 +28,7 @@ Sunny在CSDN技术博客中陆续发表了100多篇与设计模式学习相关�
 - [Java设计模式](https://www.gitbook.com/book/alleniverson/java-design-patterns/details)
 - [Java和Android设计模式](https://www.gitbook.com/book/alleniverson/design-pattern/details)
 - [C/C++设计模式](https://www.gitbook.com/book/alleniverson/cpp_design_pattern/details)
+- [java-design-patterns](https://github.com/iluwatar/java-design-patterns)
 
 ## 目录
 
@@ -68,7 +69,7 @@ Sunny在CSDN技术博客中陆续发表了100多篇与设计模式学习相关�
 
 ## 关注我
 
-- Email：<815712739@qq.com>
+- Email：<619888095@qq.com>
 - CSDN博客：[Allen Iverson](http://blog.csdn.net/axi295309066)
 - 新浪微博：[AndroidDeveloper](http://weibo.com/u/1848214604?topnav=1&wvr=6&topsug=1&is_all=1)
 - GitHub：[JackChan1999](https://github.com/JackChan1999)
