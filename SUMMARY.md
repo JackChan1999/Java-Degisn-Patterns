@@ -9,6 +9,7 @@
 * [工厂三兄弟之工厂方法模式](Chapter 04 Factory Method/工厂三兄弟之工厂方法模式.md)
 * [工厂三兄弟之抽象工厂模式](Chapter 05 Abstract Factory/工厂三兄弟之抽象工厂模式.md)
 * [确保对象的唯一性——单例模式](Chapter 06 Singleton/确保对象的唯一性——单例模式.md)
+* [单例模式的Java和Kotlin实现](Chapter 06 Singleton/单例模式的Java和Kotlin实现.md)
 * [对象的克隆——原型模式](Chapter 07 Prototype/对象的克隆——原型模式.md)
 * [复杂对象的组装与创建——建造者模式](Chapter 08 Builder/复杂对象的组装与创建——建造者模式.md)
 * [不兼容结构的协调——适配器模式](Chapter 09 Adapter/不兼容结构的协调——适配器模式.md)

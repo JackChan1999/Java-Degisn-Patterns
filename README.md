@@ -28,6 +28,7 @@ Sunny在CSDN技术博客中陆续发表了100多篇与设计模式学习相关�
 - [Java设计模式](https://www.gitbook.com/book/alleniverson/java-design-patterns/details)
 - [Java和Android设计模式](https://www.gitbook.com/book/alleniverson/design-pattern/details)
 - [C/C++设计模式](https://www.gitbook.com/book/alleniverson/cpp_design_pattern/details)
+- [java-design-patterns](https://github.com/iluwatar/java-design-patterns)
 
 ## 目录
 
@@ -40,6 +41,7 @@ Sunny在CSDN技术博客中陆续发表了100多篇与设计模式学习相关�
 * [工厂三兄弟之工厂方法模式](https://alleniverson.gitbooks.io/java-degisn-patterns/content/Chapter%2004%20Factory%20Method/工厂三兄弟之工厂方法模式.html)
 * [工厂三兄弟之抽象工厂模式](https://alleniverson.gitbooks.io/java-degisn-patterns/content/Chapter%2005%20Abstract%20Factory/工厂三兄弟之抽象工厂模式.html)
 * [确保对象的唯一性——单例模式](https://alleniverson.gitbooks.io/java-degisn-patterns/content/Chapter%2006%20Singleton/确保对象的唯一性——单例模式.html)
+* [单例模式的Java和Kotlin实现](https://alleniverson.gitbooks.io/java-degisn-patterns/content/Chapter%2006%20Singleton//单例模式的Java和Kotlin实现.html)
 * [对象的克隆——原型模式](https://alleniverson.gitbooks.io/java-degisn-patterns/content/Chapter%2007%20Prototype/对象的克隆——原型模式.html)
 * [复杂对象的组装与创建——建造者模式](https://alleniverson.gitbooks.io/java-degisn-patterns/content/Chapter%2008%20Builder/复杂对象的组装与创建——建造者模式.html)
 * [不兼容结构的协调——适配器模式](https://alleniverson.gitbooks.io/java-degisn-patterns/content/Chapter%2009%20Adapter/不兼容结构的协调——适配器模式.html)
@@ -67,7 +69,7 @@ Sunny在CSDN技术博客中陆续发表了100多篇与设计模式学习相关�
 
 ## 关注我
 
-- Email：<815712739@qq.com>
+- Email：<619888095@qq.com>
 - CSDN博客：[Allen Iverson](http://blog.csdn.net/axi295309066)
 - 新浪微博：[AndroidDeveloper](http://weibo.com/u/1848214604?topnav=1&wvr=6&topsug=1&is_all=1)
 - GitHub：[JackChan1999](https://github.com/JackChan1999)
